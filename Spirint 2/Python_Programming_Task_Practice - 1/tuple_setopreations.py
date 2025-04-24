@@ -1,0 +1,5 @@
+elements=(10,20,30,40,50)
+print(elements[2])
+to_set=set(elements)
+to_set.add(60)
+print(to_set)
